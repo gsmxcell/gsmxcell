@@ -1,5 +1,5 @@
 var tabbedTOC_defaults = {
-	blogUrl: "https://www.gsmxcell.com", // Blog URL
+	blogUrl: "https://www.gsmxcell.net", // Blog URL
 	containerId: "tabbed-toc", // Container ID
 	activeTab: 1, // The default active tab index (default: the first tab)
 	showDates: false, // true to show the post date
